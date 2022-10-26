@@ -1,0 +1,22 @@
+{
+  "name": "noter-express",
+  "version": "1.0.0",
+  "description": "This application will use an Express.js back end and will save and retrieve note data from a JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dus0001/noter-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dus0001/noter-express/issues"
+  },
+  "homepage": "https://github.com/Dus0001/noter-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
